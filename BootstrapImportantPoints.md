@@ -24,3 +24,5 @@
 - Column offsets are also possible.
   Eg: `offset-sm-1` moves the element left by one column in small and above screen sizes.
 - `.jumbotron` class can be used to set its content apart from all others.
+- `.[d-{breakpoint}-{value}`](https://getbootstrap.com/docs/4.0/utilities/display/) classes 
+  can be used to hide or change the display type of elements.
