@@ -26,3 +26,17 @@
 - `.jumbotron` class can be used to set its content apart from all others.
 - `.[d-{breakpoint}-{value}`](https://getbootstrap.com/docs/4.0/utilities/display/) classes 
   can be used to hide or change the display type of elements.
+
+## Bootstrap NavBar
+- **Navigation** is the important feature of any web application. It gives the user a 
+  convinient way to go through your web site.
+- `navbar-dark` makes a navbar which is dark.
+- `navbar-expand-{breakpoint}` defines from and below which breakpoint the navbar should 
+  collapse.
+- Bootstrap's `fixed-top` class allows to keep the element fixed to the top of the screen.
+- `navbar-brand` class can be used to display the branding information of the website in 
+  the `navbar`.
+- `navbar-nav` class will display a list horizontally.
+- `mr-auto` class will set right margin as 'auto'.
+-  `active` class highlights the present page link.
+- 
