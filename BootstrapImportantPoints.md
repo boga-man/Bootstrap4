@@ -39,4 +39,8 @@
 - `navbar-nav` class will display a list horizontally.
 - `mr-auto` class will set right margin as 'auto'.
 -  `active` class highlights the present page link.
-- 
+ ## Bootstrap Breadcrumbs
+- **Breadcrumbs** show you the present position of the web page in the hierarchy of 
+  web-pages.
+- Just include the class `breadcrumbs` in the `row div` and the class `breadcrumbs-item` 
+  for each item to render it in that way.
