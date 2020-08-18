@@ -36,3 +36,9 @@ footer{
 .navbar-dark{
     background: #512da8;
 }
+
+ul .nav-item :hover{
+    background: #9575cd;
+    opacity: 0.5;
+    border-radius: 5px;
+}
